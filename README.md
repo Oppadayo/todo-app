@@ -31,16 +31,6 @@ O usuário pode:
 - marcar tarefas como concluídas 
 - deletar tarefas
 
-
-
-### Web
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./assets/proffycadastro.gif" height="400px">
-
-  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./assets/proffybuscar.gif" height="400px">
-</p>
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -66,6 +56,7 @@ $ cd todo-app
 
 # Execute a aplicação em modo de desenvolvimento
 $ start chrome index.html
+```
 
 
 ### 📝 ToDos
