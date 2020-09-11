@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	<a href="https://app.netlify.com/sites/xenodochial-jennings-7a9803/settings/domain">ToDo App 📝</a>
+	<a href="https://xenodochial-jennings-7a9803.netlify.app/">ToDo App 📝</a>
 	
 </h4>
 
